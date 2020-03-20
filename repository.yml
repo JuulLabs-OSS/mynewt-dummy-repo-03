@@ -25,6 +25,7 @@ repo.versions:
     "1.0.2": "mynewt_1_0_2_tag"
     "1.1.0": "mynewt_1_1_0_tag"
     "2.0.0": "mynewt_2_0_0_tag"
+    "2.0.1": "mynewt_2_0_1_tag"
 
     "0-dev": "0.0.0"
 
